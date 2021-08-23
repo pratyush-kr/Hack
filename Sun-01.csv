@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+18:FD:CB:AA:61:70, 2021-08-22 20:19:13, 2021-08-22 20:19:36,  1, 130, WPA2, CCMP, PSK, -64,      229,    15575,   0.  0.  0.  0,  14, JioFiber-XBX35, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+4C:F2:02:09:36:45, 2021-08-22 20:19:13, 2021-08-22 20:19:36, -31,    15592, 18:FD:CB:AA:61:70,
+
